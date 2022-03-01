@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A helpe to discovrse: or, More merriment mixt with serious matters. Consisting of witty philosophicall, grammaticall, physicall, astronomicall questions and answers. As also, epigrams, epitaphs, riddles, jests, posies, love-toyes, &amp;c. re-added and plentifully dispersed. Together with The country-mans counsellor, and his yearly oracle and prognostication, with additions, or a helpe to preserve his health, never before printed.</title>
+            <author>E. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21516</idno>
+            <idno type="STC">Wing E23</idno>
+            <idno type="STC">ESTC R224521</idno>
+            <idno type="EEBO-CITATION">51784512</idno>
+            <idno type="OCLC">ocm 51784512</idno>
+            <idno type="VID">207932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207932)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2705:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A helpe to discovrse: or, More merriment mixt with serious matters. Consisting of witty philosophicall, grammaticall, physicall, astronomicall questions and answers. As also, epigrams, epitaphs, riddles, jests, posies, love-toyes, &amp;c. re-added and plentifully dispersed. Together with The country-mans counsellor, and his yearly oracle and prognostication, with additions, or a helpe to preserve his health, never before printed.</title>
+                  <author>E. P.</author>
+                  <author>Basse, William, d. ca. 1653, attributed name.</author>
+                  <author>Phillips, Edward, 1630-1696?, attributed name.</author>
+                  <author>Pond, Edward, d. 1629, attributed name.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The 13th ed.</edition>
+               </editionStmt>
+               <extent>[6], 375 [i.e. 386] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.B. for L.B. and are to be sold by Andrew Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound, cropped with some loss of text.</note>
+                  <note>"The Country-mans Counsellor ... by E.P." (p. [197]-251) and "Sphinx and Oedipus" (p. [267]-374) each have separate t. p., "printed for I.B. and are to be sold by Andrew Crook. 1648."</note>
+                  <note>Errors in pagination: p.32 misnumbered 33; p. 134-135 misnumbered 235-235; p. 199 misnumbered 991; p. 258 misnumbered 158; p. 320-386 misnumbered 318-375. Some page numbers corrected by hand; some cropped and unreadable.</note>
+                  <note>Variously attributed to William Basse, Edward Phillips and Edward Pond. Cf. Halkett &amp; Laing (3rd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Epigrams, English --  Early works to 1800.</term>
+               <term>Almanacs, English --  Early works to 1800.</term>
+               <term>Anecdotes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207932:1"/>
+            <pb facs="tcp:207932:1" rendition="simple:additions"/>
+            <p>Strange and Wonderful NEWS FROM DURHAM. OR THE Virgins Caveat AGAINST INFANT-MURTHER, A FAIR Warning To all Beauteous Young Ladies to withſtand the Temptations of diſſolute Gallants, ſhewing the Impoſſibility of Concealing their Sin. Set forth in a RELATION of an Infant Murthered by its Mother in the Biſhoprick of <hi>Durham.</hi> Which Appeared to a certain Woman, and diſcovered its Mother, its Place of Burial, and the Reaſon of its Walking.</p>
+            <p>Sent by <hi>C. E.</hi> to his Friend in <hi>London.</hi>
+            </p>
+            <q>
+               <bibl>PSAL. 19. 13,</bibl>
+               <p>Keep back thy Servant from preſumptuous ſins, then ſhall I be upright.</p>
+            </q>
+            <p>LONDON, Printed <hi>Anno Dom.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207932:2"/>
+            <pb n="1" facs="tcp:207932:2"/>
+            <head>The Virgins Caveat against Infant-Murther.</head>
+            <p>AS the Mercies of the Almighty are to a Miracle admirable, ſo his Judgements on ſome Sinners are alſo prodigious; for though we commit our Sins under the Covert, both of the Night and the Cloſet; though with our Parents we ſowe Fig-leafes before our ſhame, yet ere the Evening of our days God eſpies our Hypocriſie, and through that thin Veil, that painted Sepulchre, diſcerns the Rottenneſs and Corruption within; for although in reſpect of the ſlender capacity of mor<g ref="char:EOLhyphen"/>tal man, the Heart is deceitful above all things, and deſperately wicked, none can know it; yet the glorious Eye of the divine Providence eaſily diſſipates thoſe Clouds, makes our ſecret Sins as palpable as the Noon-day Sun, and not only proclaims our Offences to the World, but frequently gives our Enor<g ref="char:EOLhyphen"/>mities leave to ſhame us in this World, and condemn us too; but of all thoſe Sins, (which are more in number then the Hairs of our Head, ſo that our Hearts may upon too good Grounds) none are more provoking then the Breach of the ſixth and ſeventh Commandments, the ſecond Coining and Imprinting Gods Image without his Licence, nay, expreſſely againſt his Conſent, as the former does deface it in deſpight of his Command; And as he did not ſpare <hi>David</hi> in this caſe, though a Man after Gods own Heart, but Afflicted him with temporal puniſhments as he would have done with eternal, if his timely Repentance had not interpoſed; ſo in the like circumſtances, even in our days we ſee ſome ſtormes and ſeverities, ſome dreadful effects of the Terrours of the Lord of Hoſts, and none in our late days has bin more Remarkable, then that which gives Occaſion to our enſuing Diſcourſe.</p>
+            <p>Mr. <hi>Elizabeth B—</hi>was born in the Biſhoprick and City of <hi>Durham;</hi> and when the wonderful Inſtructions and exemplary Piety of her incomparable Mother, had added th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe two moſt precious Jewels of <hi>Religion</hi> and <hi>Modeſty,</hi> ſhe bade the World <hi>Good-Night,</hi> in an Age far ſhort of that which <hi>David</hi> call, <hi>Trouble and Sorrow;</hi> However, her Diſſolution was no whit untimely, ſince it prevented her from ſeeing the faireſt Bloſſom that ever ſprang from ſo precious a Mother-Plant, blaſted by a lamentable and deplorable Acci<g ref="char:EOLhyphen"/>dent.</p>
+            <pb n="2" facs="tcp:207932:3"/>
+            <p>The Firſt fruits ſhe had brought forth in the yeares immediately ſucceed<g ref="char:EOLhyphen"/>ing her Mothers Deceaſe, were ſuitable to the good Seed which had been ſown in ſo rich a Mould; None of her Neighbors (though many very ad<g ref="char:EOLhyphen"/>mirable) ſtruck ſail to this Excellency; She her ſelf was her only Compa<g ref="char:EOLhyphen"/>riſon for Beauty.</p>
+            <p>Freighted thus with this ineſtimable Cargo, by the Aſſent of her Friends, but hurried rather by an unhappy Tempeſt, ſhe at the laſt Arrived at the moſt Debauched and moſt Civilized Place in the World, our Magnificent <hi>Metropolis</hi> of <hi>London;</hi> Her Actions at her Arrival were ſuch, that they convinced all that knew her, that ſhe had the moſt unſpotted Soul lodged in the moſt beautiful Body in the World; All thoſe Summer-Flies which en<g ref="char:EOLhyphen"/>deavour to ſully and corrupt our choiceſt and moſt perfect Fruit, met here with nothing but ſcorn and contempt, even thoſe who made more Noble Ad<g ref="char:EOLhyphen"/>dreſſes, could diſcern ſmall Grounds of obtaining their deſired Object: Had our Cherubim here pitched her <hi>non Plus ultra,</hi> and ſhut her Ear againſt the Inſinuations of the degrade Angel, ſhe might have anſwered thoſe excel<g ref="char:EOLhyphen"/>lent Qualifications ſhe was endowed with.</p>
+            <p>But from the firſt Fall, our Grand-Mother <hi>Eve</hi> has Entailed ſuch weakneſs on her ſucceeding Generations, ſince Pleaſure, Curioſity, Pride and Idleneſs lay claim to ſo large a ſhare of our young Ladies time, ſince the deluſions of <hi>Romances,</hi> and Abſurdities of the Stage, diſpoſe of almoſt all the reſt of their moſt ſerious houres; What can we look for but Tares among the Wheat, and then the Inference in the Goſpel will be very fit, <hi>Inimicus homo fecit hoc.</hi>
+            </p>
+            <p>But to return from a Tranſport that would give an Alarum to the moſt frozen Zeal. This Miracle of Women who hitherto had breathed nothing but the moſt miraculous Efforts of Vertue and Chaſtity, too ſoon alas gave credit to the Oaths and Inſinuations of a beloved Perſon, and abandoned her ſelf to the enjoyment of ſuch Pleaſures as are only the lawful Concomitants the Marriage-Bed; This pleaſure (as all others, whoſe Foundation is ſin) did at the length ſprout up into Shame; She by her daily Qualmes and Sick<g ref="char:EOLhyphen"/>neſſes too late perceived and repined at the cauſe of her Diſtemper; But as the only means of concealing her growing ſhame, ſhe retired into the Biſhoprick of <hi>Durham,</hi> to remove, if poſſible, the uncomfortable Bur<g ref="char:EOLhyphen"/>then both of her ſoul and body. The reſt of her time was ſpent in a privay
+<pb n="3" facs="tcp:207932:3"/> anſwerable to her Condition and melancholy Humour, nothing was wanting in that accompliſhed Place which might not have retrived <hi>Her aclitus</hi> himſelf from his doleful dumps, and continued weeping; She only, I believe, was a perpetual Monument of her own Eaſineſs and Shame, and in this a Miracle that very few have ever repented ſo much of this ſin, never any to ſo little purpoſe.</p>
+            <p>But the near Approach of his Delivery did neceſſitate her to reſolve on ſomething in order to her diſpoſal of the product of unpleaſant pleaſure; None need queſtion but her thoughts were at great variance, fear of diſ<g ref="char:EOLhyphen"/>credit and diſhonour from without, and Apprehenſions of diſquietneſs, vex<g ref="char:EOLhyphen"/>ation from within, a long time, did equally ſhare her diſtracted ſoul; But wo is me, the former Paſſion ſo ſoon obtained the Conqueſt, and the diſtance of the latter made the greater Object appear the leſs, and ſhe reſolved (with the Corps of her Murthered Infant) to bury her Confuſion and ſhameful diſ<g ref="char:EOLhyphen"/>grace;</p>
+            <p>☞ In order whereunto, being privately brought to bed, and blinding her condition under pretence of indiſpoſition, upon her delivery ſhe ſtabbed her Body in into it under its left Arm, and put a Period to that <hi>Series</hi> of Breathing, which had but newly begun and commenced, the Infant was buried with the greateſt Privacy, and one old Woman only conſcious of the Secret, to whom it was neceſſary to communicate it, ſhe being employed in waſhing her Shifts, Sheets, and what Linnen elſe ſoever, ſhe was fain to make uſe o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on ſo ſad and lamentable occaſion; Upon the Recovery of ſome ſmall ſtrength, (under the Vizor of bettering her Health) ſhe privately retired into <hi>Richmond</hi>-ſhire, to the Houſe of a faithful Friend, where ſhe lived very retiredly, oppreſſed (as it ſhould ſeem) with ſome inward trouble, although there was not the leaſt ſuſpicion or whiſpering of her Crime, ſo that ſhe might upon great probabilities cry Peace, peace, as the <hi>Jews</hi> did, when a terrible deſtruction hung over their Heads.</p>
+            <p>Whilſt all things ſeem'd as obſcure as the fatal Night, and her guilt deep buried in the Grave of her Child, A Report was buzzed about of a little Infant appearing Nightly to ſome or other; but there was one Woman it more eſpecially pitched upon, who lived near to the old Woman before-mentioned, which waſhed the Cloathes. <hi>March</hi> 27. it appeared to this young woman (whoſe Name was <hi>Mary Coward</hi>) all bloody, with the Marks of its Mothers cruelty very apparent upon it; and the All-powerful God, who out of the Mouth of this Babe and Suckling ordained praiſe, was plea<g ref="char:EOLhyphen"/>ſed
+<pb n="4" facs="tcp:207932:4"/> to lend it an Articulate Voice, which it made uſe of to deſire <hi>Mary Coward</hi> to declare its Murther, and the occaſion of its being remanded to the World; The Firſt Time of its appearing ſhe imagined her ſelf only deluded by Melancholy, or ſome Enthuſiaſtick Fancies; But being ſollicited to the performance of this Requeſt by her little Petitioner, ſhe began more ſeriouſly to conſider the Viſion, and with a more ſerious Eye to look upon that, which till then ſhe looked upon as only idle and frivolous.</p>
+            <p>One Night among the reſt ſhe being very much preſſed by that pretty Sollicitor, was at length ſo bold as to ask <hi>Who was its Mother, the Occaſion of its Death and Walking, and who were privy to that hainous Offence?</hi> But when ſhe heard the Name of the beauteous <hi>Elizabeth,</hi> and had well conſi<g ref="char:EOLhyphen"/>dered the Reputed Vertue of that perſon, her Curioſity was at an end, and ſhe no longer look'd upon that little Angel of Light, but as an Imp of the Father of Lies; but being inceſſantly both urged and threatned in caſe of neglect, ſhe at laſt communicated her trouble to a Friend, her Friend to an<g ref="char:EOLhyphen"/>other, that to a third, till the City Rang of it, and the Maid was in great danger of ſuffering ſomething of perſecution from her Alliance.</p>
+            <p>And now being greatly afflicted at her too too eaſie Credulity, and bla<g ref="char:EOLhyphen"/>ming her ſelf for thus burning her Lips in other Folks pottage, ſhe had Re<g ref="char:EOLhyphen"/>courſe to two of the ſureſt Stays of this Life, her Heavenly Father, and her own Innocency; But as ſhe was retired to her Apartment, the little Babe comes, and comforts her, acquaints her with the place of its Burial, and that her Aunt was privy to its Birth, if not to its Murther: Going next day with ſome of her Intimates to ſee that Sepulchre, they, according to the Information given them, found a moſt beautiful Corps, in all things ſuitable to the Faireſt, the moſt deluded Mother in the World<g ref="char:punc">▪</g> whereupon having Recourſe unto <hi>John Morland</hi> Eſquire, one of His Majeſties Juſtices of the Peace for the City and County of <hi>Durham,</hi> he granted out a Warrant to apprehend the ſuſpected perſons, and with all poſſible ſpeed and ſecrecie to bring them before him; The old Woman denied not, but that ſhe had ob<g ref="char:EOLhyphen"/>ſerved all the Marks of a Woman in Child bed on the Linnen of the fair <hi>E<g ref="char:EOLhyphen"/>lizabeth,</hi> but how ſhe had diſpoſed of the Child ſhe pretends to be wholly ignorant.</p>
+            <p>The beautiful Unfortunate was the next who was enquired after, but though the Officers went to the place of her Reſidence, yet ſhe was denied ſtrongly, ſo that they were forced to get a Reinforcement of their Authority from ſome Juſtices in <hi>Richmond-ſhire,</hi> and upon ſearch they found her out
+<pb n="5" facs="tcp:207932:4"/> in the place of her Retirement, and being brought before Authority, ſhe could not deny that of which there were ſo many and irrefragable proofs; Whereupon ſhe was <hi>April</hi> 5. committed into Cuſtody, where ſhe now re<g ref="char:EOLhyphen"/>mains in expectation of a Trial, the Event thereof next <hi>Lammas</hi> Aſſizes will acquaint us with; She now living unfortunately in having the faireſt Table in the World ſullied with the two grievous blemiſhes of Fornication and Murther: I deſire God to give her a true ſight and ſenſe of her offences, and a Repentance anſwerable to the greatneſs of them,</p>
+            <p>This ſad Example may ſerve for a <hi>Caveat</hi> to all young Ladies and Maids, not to yield up their Virgin honour to any, though upon the moſt ſpecious pretence, not to give Ear to the Oaths and proteſtations of the moſt paſſio<g ref="char:EOLhyphen"/>nate Pretenders, ſince all their Rhetorick and Eloquence has no other end then the utter deſtruction of the Object of their deſires. And if any has been ſo imprudent and eaſie, as already to have given way to ſuch exorbitant deſires, let them not, as they tender the welfare of both ſoul and body, ever propoſe to themſelves even a poſſibility of concealing their ſhame by the addition of a ſin; for though our bleſſed Saviour did deny to ſend one from the dead to convince the Brothers of <hi>Dives, Luke</hi> 16. yet this Ex<g ref="char:EOLhyphen"/>ample, and many others, may ſufficiently convince us, that if we be guilty of ſuch grievous ſins, he will ſend one from the dead to detect us in this World, and condemn us too.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
